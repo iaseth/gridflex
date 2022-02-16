@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gridflex/static/css/main.26c361a9.css",
+    "main.js": "/gridflex/static/js/main.e3ed9005.js",
+    "static/js/787.bd444bb8.chunk.js": "/gridflex/static/js/787.bd444bb8.chunk.js",
+    "index.html": "/gridflex/index.html",
+    "main.26c361a9.css.map": "/gridflex/static/css/main.26c361a9.css.map",
+    "main.e3ed9005.js.map": "/gridflex/static/js/main.e3ed9005.js.map",
+    "787.bd444bb8.chunk.js.map": "/gridflex/static/js/787.bd444bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c361a9.css",
+    "static/js/main.e3ed9005.js"
+  ]
+}
